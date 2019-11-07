@@ -1,0 +1,1 @@
+# mService-assgnmnt-colud-config
